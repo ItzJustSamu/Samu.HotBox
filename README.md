@@ -1,6 +1,6 @@
 # Samu.ga
 
-This is just a Portfolio website!
+My website
 
 Link: https://samu.ga
 
