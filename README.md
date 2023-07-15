@@ -1,4 +1,4 @@
-# Samu.ga
+# ItzJustSamu Profile card
 
-Link: https://samu.ga
+Link: [https://samu.ga](https://itzjustsamu.github.io/samu.ga/)https://itzjustsamu.github.io/samu.ga/
 
